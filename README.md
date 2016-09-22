@@ -9,11 +9,11 @@ This demo is an updated working version of index_UScities.html, part of the XDK 
 https://github.com/krisrak/html5-augmented-reality-app). XDK deprecated its augmented reality features.
 
 
-Modifications to the original project:
-1. Configured the AR UI to use transparent background and semi-transparent city distance markers
-2. Added ezAR VideoOverlay and Snapshot plugins
-3. Added snapshot button and onclick action to use the snapshot plugin feature
-4. Added ezAR attribution text
+Modifications to the original project:  
+* Configured the AR UI to use transparent background and semi-transparent city distance markers
+* Added ezAR VideoOverlay and Snapshot plugins
+* Added snapshot button and onclick action to use the snapshot plugin feature
+* Added ezAR attribution text
 
 ##ezAR Docs and Tech Support
 See [ezartech.com](http://ezartech.com) for documentation and support.
